@@ -1,5 +1,4 @@
 # Hello my name is Abebe Samuel
-
 I studying in Helsinki bussiness colleage
 
 ## GH forking practice
